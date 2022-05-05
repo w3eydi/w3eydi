@@ -2,10 +2,11 @@
 
 # I'm Developer and Making My Ideas
 
-- 🔭 I’m currently working on Robotics, ML, Game..
-- 🌱 I’m currently learning Unity ML-Agents
+- 🌱 I’m currently learning the [rust](https://rust-lang.org) programming language. I'm founder of non-official **[rust-langturkiye.com](https://rust-langturkiye.com)**.
+- 🔭 I worked with Simulations, Robotics, ML, Games, etc. before.
 
-- Look! [Unity ml-agents Turkish Documentation](https://github.com/w3eydi/ml-agents/tree/TR-Documentation/docs/localized/TR) I created myself.
+- ⚡ **Look!** [My Rust Examples Repo to Checkout My Rust Knowledge](https://github.com/w3eydi/Rust-Examples)
+- ⚡ **Look!** [Unity ml-agents Turkish Documentation](https://github.com/w3eydi/ml-agents/tree/TR-Documentation/docs/localized/TR) I created myself.
 
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -26,7 +27,7 @@
 
 
 ### Languages and Tools:
-
+<img align="left" alt="Rust Programming Language" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />
 <img align="left" alt="C Programming Language" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
 <img align="left" alt="C++ Programming Language" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="C# Programming Language" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
