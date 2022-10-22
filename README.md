@@ -1,10 +1,11 @@
 ### Hi there, I'm Eydi. 👋
 
-# I'm Developer and Making My Ideas
+# I'm Rust Developer and Making My Ideas
 
-- 🌱 I’m currently learning the [rust](https://rust-lang.org) programming language. I'm founder of non-official **[rust-langturkiye.com](https://rust-langturkiye.com)**.
+- 🦀 I’m currently recording the [rust](https://rust-lang.org) programming language videos in English and Turkish. I'm founder of non-official **[rust-langturkiye.com](https://rust-langturkiye.com)**.
 - 🔭 I worked with Simulations, Robotics, ML, Games, etc. before.
 
+- ⚡ **Look!** The [curriculum of the Rust Videos](https://github.com/w3eydi/Rust_Tutorials_2022) I shared on [Youtube](https://www.youtube.com/channel/UCcdZHyvvsaEzMMznNs3thow/playlists).
 - ⚡ **Look!** [My Rust Examples Repo to Checkout My Rust Knowledge](https://github.com/w3eydi/Rust-Examples)
 - ⚡ **Look!** [Unity ml-agents Turkish Documentation](https://github.com/w3eydi/ml-agents/tree/TR-Documentation/docs/localized/TR) I created myself.
 
@@ -34,8 +35,6 @@
 <img align="left" alt="Python" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Vim" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />
 <img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Jupyter Notebook" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />
-<img align="left" alt="Scikit Learn" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" />
 <img align="left" alt="Tensorflow" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
 <img align="left" alt="Unity" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />
 <img align="left" alt="Unreal Engine" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unreal-engine/unreal-engine.png" />
